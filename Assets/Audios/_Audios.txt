@@ -1,0 +1,15 @@
+
+Les ressources sonores comprennent des extraits audio (Audio Clip) 
+ainsi que les mixeurs utilisés pour mélanger les effets sonores et la musique.
+
+https://docs.unity3d.com/Manual/class-AudioClip.html
+
+Attention de bien subdiviser le dossier.
+
+Exemple de base: 
+
+Dossier: Musiques
+Dossier: Effets
+
+
+	

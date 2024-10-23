@@ -1,0 +1,31 @@
+Contient les matériaux définissant les propriétés visuelles des objets.
+
+https://docs.unity3d.com/Manual/Materials.html
+
+
+Attention de bien nommer les matériaux et de bien subdiviser le dossier.
+
+Le dossier peut être subdivisé en fonction : 
+	- Des objets (Roue, moulin, personnage...)
+	- Des niveaux du jeu (Niveau1)
+	- Des sections de l'environnement (Chateau, Donjon, Ruelle...)
+	- Etc.
+
+
+Exemple: 
+
+	Dossier : 	Niveau1
+			Dossier: Batisses
+				 Dossier:  Planchers
+						- EtageSup
+						- SousSol
+				 Dossier: Fenetres
+						- Transparante
+						- SemiOpaque
+				
+
+
+
+
+
+	

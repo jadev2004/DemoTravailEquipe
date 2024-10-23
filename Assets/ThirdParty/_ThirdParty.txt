@@ -1,0 +1,7 @@
+Contient les éléments externes, comme ceux téléchargés via l'Asset Store
+Ceux-ci doivent être séparés du reste du projet dans ce dossier.
+
+Vous devez garder la structure des Packages telle quelle et ne pas modifier la structure originale. 
+Par exemple, vous ne devez pas transférer les Prefabs dans votre dossier Prefabs
+
+Vous devez inclure les droits d'auteurs

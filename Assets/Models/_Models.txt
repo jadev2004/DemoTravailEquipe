@@ -1,0 +1,15 @@
+
+Contient les modèles 3D créés dans un logiciel de modélisation 3D externe comme Blender.
+
+https://docs.unity3d.com/Manual/models.html
+
+Vous pouvez mettre les modèles que vous avez créés ou télécharger d’un site tiers.
+
+Attention! Il ne faut pas mettre ici les modèles que vous avez téléchargés de l’ asset store. 
+Les modèles du Asset store vont être mis dans le dossier ThirdParty.
+
+
+
+
+
+	

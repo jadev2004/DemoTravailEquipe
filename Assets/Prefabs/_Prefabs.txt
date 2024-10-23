@@ -1,0 +1,11 @@
+Contient les objets préfabriqués (Prefab)
+
+https://docs.unity3d.com/Manual/Prefabs.html
+
+Attention! Il ne faut pas mettre ici les prfabs que vous avez téléchargés de
+l’asset store. Les prefabs du Asset store vont être mis dans le dossier ThirdParty.
+
+
+
+
+	

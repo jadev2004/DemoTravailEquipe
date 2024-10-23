@@ -1,0 +1,65 @@
+Le dossier "Animations" contient des clips de mouvement animés (Animation Clips) 
+et leurs fichiers de contrôle (Animator Controler). Elles peuvent également 
+contenir des éléments de chronologie pour les cinématiques intégrées au jeu 
+ou des informations de rigging pour les animations procédurales.
+
+https://docs.unity3d.com/Manual/AnimationOverview.html
+
+Attention de bien subdiviser le dossier.
+
+Le dossier peut être subdivisé en fonction : 
+	- Des objets animés (Roue, moulin, personnage...)
+	- Des niveaux du jeu (Niveau1)
+	- Des sections de l'environnement (Chateau, Donjon, Ruelle...)
+	- Etc.
+
+
+Exemples: 
+
+--------------------------------------
+
+	Dossier : 	Voitures
+			Dossier: VoitureRouge
+					- Roues
+		   			- Volant	
+		   			- Lumieres
+
+ 			Dossier: VoitureBleue
+					- Roues
+		   			- Volant	
+		   			- Lumieres
+
+--------------------------------------
+
+	Dossier : 	Personnages
+			Dossier: Personnage1
+					Dossier : Mouvements 
+							- Marche
+							- Course
+							- Saut
+					Dossier : Attaque 
+							- Epee
+							- Arme
+							- Arc
+					Dossier : Defence 
+							- Epee
+							- Arme
+							- Arc
+
+			Dossier: Personnage2
+					Dossier : ...
+		
+--------------------------------------
+
+	Dossier : 	SceneIntro
+	Dossier : 	Niveau1
+		   		CinematiqueIntro
+
+				Dossier : Personnages
+					  Dossier: Monstre
+					  Dossier: Etoile
+				
+
+
+
+	

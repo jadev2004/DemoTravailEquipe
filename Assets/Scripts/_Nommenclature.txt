@@ -1,0 +1,89 @@
+Nomenclature des scripts dans Unity
+
+- Noms de fichiers C#
+
+	Le nom doit toujours commencer par une lettre majuscule suivie de lettres minuscules
+
+	***Ne jamais mettre d'espace
+
+	Si le nom a plusieurs mots, chaque mot suivant le premier doit commencer par une lettre majuscule.
+	Le nom doit être singulier (ex.: Note vs Notes)
+
+ 	Ex.: GestionnaireJeu
+
+- Classe
+
+	Le nom de la classe doit toujours être le même que le nom du fichier script. 
+
+
+- Variables / Packages / Modules
+
+	Le nom doit toujours commencer par une minuscule
+	Si un nom possède plusieurs mots, les mots (sauf le premier) doivent commencer par une lettre majuscule.
+
+	Seules les lettres doivent être utilisées dans les noms de variables.
+
+	Ex.: maVariable
+
+	- Variables privées 
+
+		Le nom des variables privées doit toujours commencer par un trait de soulignement *_*.
+		Si un nom possède plusieurs mots, les mots (sauf le premier) doivent commencer par une lettre majuscule.
+
+		Ex.: _maVariable
+
+- Methodes / Fonctions 
+
+	Le nom dune Méthode doit toujours commencer par une lettre majuscule suivie de lettres minuscules
+	Si le nom a plusieurs mots, chaque mot suivant le premier doit commencer par une lettre majuscule.
+
+ 	Ex.: TournerPersonnage()
+
+
+------------------------------------------------------------------
+
+Organisation du script
+
+
+1. Dans une classe C#, le nom de la classe est généralement situé en haut de la définition de classe, juste après la déclaration "public class". 
+
+2. Les variables sont généralement déclarées en haut de la définition de classe, juste après la déclaration de la classe et avant les méthodes. 
+
+	Il est courant de les regrouper par type ou fonctionnalité. 
+
+	Il est courant de placer les propriétés (getters et setters) au même niveau que les variables.
+
+3. Les méthodes sont généralement déclarées juste après les variables d'instance, et sont également regroupées par type ou fonctionnalité. 
+
+	Exemple
+
+
+	using System.Collections;
+	using System.Collections.Generic;
+	using UnityEngine;
+
+	public class LeScript : MonoBehaviour
+	{
+   	private float _leChiffre;
+    	private string _unMot;
+    	private bool _vraiOuFaux;
+
+   	 // Start is called before the first frame update
+    	void Start()
+    	{
+        
+   	 }
+
+   	 // Update is called once per frame
+    	void Update()
+   	{
+
+   	 }
+
+    	void UneMethode(){
+
+   	 }
+
+	}
+
+

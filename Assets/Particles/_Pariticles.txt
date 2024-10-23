@@ -1,0 +1,11 @@
+
+Les simulations de particules dans Unity, créées soit avec 
+le Système de Particules (Particle System) soit avec le Visual Effect Graph.
+
+https://docs.unity3d.com/Manual/class-ParticleSystem.html
+
+
+
+
+
+	

@@ -1,0 +1,10 @@
+Contientt les paramètres du pipeline de rendu, 
+tels que ceux utilisés pour le Universal Render Pipeline (URP) 
+et le High Definition Render Pipeline (HDRP).
+
+https://docs.unity3d.com/Manual/render-pipelines.html
+
+Il est possible de valider, ou modifier, les paramètres dans: 
+
+Edit > Projet Settings > Graphics > URP Globals Settings
+Edit > Projet Settings > Quality > Render Pipeline Asset

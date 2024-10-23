@@ -1,0 +1,6 @@
+Contiens les scènes de votre jeu.
+Une scène dans Unity est un ensemble d'objets, de lumières, 
+de caméras et d'autres éléments qui composent un espace de jeu 
+ou une partie spécifique d'un projet Unity.
+
+https://docs.unity3d.com/2022.3/Documentation/Manual/CreatingScenes.html

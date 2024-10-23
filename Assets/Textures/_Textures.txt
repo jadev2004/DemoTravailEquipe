@@ -1,0 +1,26 @@
+Contient les images pouvant servir pour les textures et les éléments d'interface utilisateur (UI), les sprites
+
+https://docs.unity3d.com/Manual/Textures.html
+
+Exemple de subdivision du dossier:
+
+
+Exemple: 
+
+	Dossier : Sprites
+			- Contient les images 2D pour les interfaces utilisateur
+
+	Dossier: Niveau1
+		 Dossier:  Batisses		
+			   Dossier: Ferme1
+					- FenetreExterieur
+					- FenetreInterieur
+
+			   Dossier: Grange
+				
+
+
+
+
+
+	

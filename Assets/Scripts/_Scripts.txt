@@ -1,0 +1,37 @@
+Contient le code C# du projet
+
+Attention de bien subdiviser le dossier.
+
+Le dossier peut être subdivisé en fonction : 
+	- Des GameObjects (Personnages,Portes, Voiture...) 
+	- Des niveaux du jeu (Niveau1, Intro...)
+	- Des sections de l'environnement (Chateau, Donjon, Ruelle...)
+	- Etc.
+
+
+Exemples: 
+
+--------------------------------------
+
+	Dossier : 	Voitures
+				- AvanceRecule
+				- RotationVoiture
+				- RotationRoue
+		   		- AlumeEteintLumiere
+		   
+
+	Dossier : 	Personnages
+			Dossier: Personnage1
+					- Bouge
+					- Tourne
+					- Saut
+					- Attaque 
+					- Defence 
+		
+		
+
+				
+
+
+
+	
